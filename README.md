@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="images/bannner.png" alt="Mercy Daramola Banner" width="100%">
+</p>
 # Hi there, I'm Mercy Daramola 👋
 
 Welcome to my GitHub!
