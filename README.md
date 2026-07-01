@@ -2,7 +2,7 @@
   <img src="Images/bannner.png" alt="Mercy Daramola Banner" width="100%">
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=73361C&center=true&vCenter=true&width=700&lines=Data+Analyst;Excel+%7C+SQL+%7C+Power+BI+Tableau;Turning+Data+into+Actionable+Insights;Always+Learning+and+Growing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=73361C&center=true&vCenter=true&width=700&lines=Data+Analyst;Excel+%7C+SQL+%7C+Power+BI+Tableau+Python(Learning);Turning+Data+into+Actionable+Insights;Always+Learning+and+Growing" />
 </p>
 # Hi there, I'm Mercy Daramola 👋
 
